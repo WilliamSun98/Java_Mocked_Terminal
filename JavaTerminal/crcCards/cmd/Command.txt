@@ -1,0 +1,10 @@
+Class name: Command
+Parent Class (if any): No
+Subclasses (if any): DirectoryStackCommand, UsageCommand,
+                     CommandHistoryCommand, FileSystemCommand
+
+Responsibilities:
+*Stores arguments
+*Can execute by its own functionality.
+
+Collaborators:

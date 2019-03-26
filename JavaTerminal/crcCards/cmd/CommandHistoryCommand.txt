@@ -1,0 +1,9 @@
+Class name: CommandHistoryCommand
+Parent Class (if any): Command
+Subclasses (if any): HistoryCommand
+
+Responsibilities:
+*Works with HistoryCommand class
+
+Collaborators:
+*HistoryCommand

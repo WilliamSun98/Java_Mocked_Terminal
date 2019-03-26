@@ -1,0 +1,4 @@
+Joey:
+  Hi guys, for your convenience, I did a simple UML for all of you.
+  Feel free to view and edit, I will provide the link below.
+
